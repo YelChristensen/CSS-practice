@@ -153,7 +153,7 @@ h1 {
 .AboutUs-text1 {
   position: absolute;
   background: none;
-  left: 37.75em;
+  right: 6.25em;
   top: 6.5em;
   width: 28em;
 }
@@ -168,7 +168,7 @@ h1 {
 
 .WoodenSpoonsImg {
   position: absolute;
-  left: 54.06em;
+  right: 0;
   top: 26.75em;
   width: 17.9375em;
   height: 24em;
@@ -188,7 +188,8 @@ h6 {
 }
 .HowItWorks-content {
   display: flex;
-  margin: 4em 0 4em 6.25em;
+  justify-content: center;
+  margin: 4em 0 4em 0;
 }
 .HowItWorks-design {
   background-image: url("./assets/ChooseDesign.png");
