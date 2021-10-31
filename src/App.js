@@ -35,8 +35,8 @@ function App() {
           <div className="SaladBowlsImg"></div>
           <div className="AboutUs-text1">
             <h5>
-              <strong>{"Woodies".toUpperCase()}</strong> is{" "}
-              <strong>the home of modern wooden furniture</strong>{" "}
+              <strong>{"Woodies".toUpperCase()}</strong> is the{" "}
+              <strong>home of modern wooden furniture</strong>{" "}
             </h5>
             <h6>
               the answer to your need for furniture with shapes, sizes and
