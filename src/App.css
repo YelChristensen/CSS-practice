@@ -5,17 +5,15 @@
   font-family: Nunito;
   color: #3e3f43;
 }
-.App-wrapper {
-  height: 57.5em;
-}
 
 .App {
-  height: 49em;
+  height: 50em;
   background: #ffffff;
   background-image: url("./assets/LogoTableColor.png");
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: -1em;
+  margin-bottom: 7.5em;
 }
 
 .App-header {
@@ -100,7 +98,8 @@ h2 {
   border-radius: 4px;
 }
 .AboutUs {
-  height: 59.37em;
+  height: 59.375em;
+  margin-bottom: 7.5em;
 }
 .Page-heading {
   height: 6.125em;
@@ -139,6 +138,7 @@ h1 {
 
 .AboutUs-content {
   height: 50.75em;
+  margin-top: 2.5em;
   position: relative;
   background: none;
 }
@@ -186,6 +186,7 @@ h6 {
 .HowItWorks {
   height: 28.1em;
   text-align: center;
+  margin-bottom: 7.5em;
 }
 .HowItWorks-content {
   display: flex;

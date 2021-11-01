@@ -2,8 +2,8 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <div className="App-wrapper">
+    <div>
+      <div className="App">
         <nav className="App-header">
           <div className="App-logo"> </div>
           <div>
